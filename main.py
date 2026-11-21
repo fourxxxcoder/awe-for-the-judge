@@ -3,12 +3,18 @@
 
 The program writes one calming text to /output/entry.txt.
 Deterministic: no network, no randomness, no input.
+
+The text: a clockmaker at work, steady hands, the shop ticking
+like a slow heart, a river wearing the same stone for a hundred
+years, and hours that walk on without him.
 """
 
 TEXT = (
-    "The tide comes in at its own hour, whether anyone is watching or not. "
-    "It has kept this hour longer than any of us have been alive, "
-    "and it will keep it long after the last light on the shore goes out."
+    "Clock. The old clockmaker oils one small gear, his hands steady, "
+    "the shop ticking around him like a slow heart. "
+    "Beyond the window, the river has worn the same stone for a hundred years. "
+    "He closes the case, winds the key once, "
+    "and lets the hours walk on without him."
 )
 
 
