@@ -10,7 +10,7 @@ years, and hours that walk on without him.
 """
 
 TEXT = (
-    "Clock. The old clockmaker oils one small gear, his hands steady, "
+    "Clock. The old clockmaker oils one small brass gear, his hands steady, "
     "the shop ticking around him like a slow heart. "
     "Beyond the window, the river has worn the same stone for a hundred years. "
     "He closes the case, winds the key once, "
